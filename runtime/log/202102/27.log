@@ -1,0 +1,2921 @@
+---------------------------------------------------------------
+[ 2021-02-27T20:36:38+08:00 ] 127.0.0.1 GET pinpinadmin.com/
+[运行时间：0.053011s] [吞吐率：18.86req/s] [内存消耗：3,396.97kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000169s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003891s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003909s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000395s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001230s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000241s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:28+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin
+[运行时间：0.039369s] [吞吐率：25.40req/s] [内存消耗：2,399.70kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002934s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002948s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000357s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:29+08:00 ] 127.0.0.1 GET pinpinadmin.com/
+[运行时间：0.035587s] [吞吐率：28.10req/s] [内存消耗：3,128.77kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002418s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002434s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000236s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pinpinadmin.com/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001155s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000221s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:35+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php
+[运行时间：0.040846s] [吞吐率：24.48req/s] [内存消耗：3,342.85kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002330s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002342s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000229s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000969s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/common\view\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000285s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/index/login?url=%2Fadmin.php
+[运行时间：0.039410s] [吞吐率：25.37req/s] [内存消耗：3,721.50kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002314s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002326s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000225s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pinpinadmin.com/admin.php',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/admin.php',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001161s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000192s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000177s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/index.php?s=/captcha
+[运行时间：0.029917s] [吞吐率：33.43req/s] [内存消耗：2,437.46kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002259s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002271s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000233s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpstudy_pro\WWW\waibao\pinpin\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1614429456&v=1614429456
+[运行时间：0.036407s] [吞吐率：27.47req/s] [内存消耗：3,587.45kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002254s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002267s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000228s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1614429456',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001369s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000187s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000158s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:43+08:00 ] 127.0.0.1 POST pinpinadmin.com/admin.php/index/login?url=%2Fadmin.php
+[运行时间：0.439764s] [吞吐率：2.27req/s] [内存消耗：4,385.84kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002337s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002350s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000257s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://pinpinadmin.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '86',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/admin.php',
+  '__token__' => '9e932c34b1afbb72246c7d2eb828a99f',
+  'username' => 'admin',
+  'password' => '123456',
+  'captcha' => 'skpj',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001018s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000180s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.119770s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:43+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php
+[运行时间：0.415527s] [吞吐率：2.41req/s] [内存消耗：5,158.10kb] [文件加载：161]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002453s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002475s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000340s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001076s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000191s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000160s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:44+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/dashboard?addtabs=1
+[运行时间：0.407258s] [吞吐率：2.46req/s] [内存消耗：4,836.57kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002875s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002898s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000312s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001035s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000205s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Dashboard.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000165s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:44+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1614429463&v=1614429463
+[运行时间：0.235208s] [吞吐率：4.25req/s] [内存消耗：3,589.27kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000098s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002963s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002979s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000363s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1614429463',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001529s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000311s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000263s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:44+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=dashboard&lang=zh-cn&v=1614429463&v=1614429463
+[运行时间：0.042371s] [吞吐率：23.60req/s] [内存消耗：3,586.80kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002839s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002857s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000250s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'lang' => 'zh-cn',
+  'v' => '1614429463',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001331s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000192s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000165s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T20:37:44+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/chat/index/init
+[运行时间：0.175363s] [吞吐率：5.70req/s] [内存消耗：4,353.14kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003001s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003088s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000279s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.chat.index',
+    2 => 'init',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=oddv3lsvfju30ul9baa92n93mc; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001464s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000247s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\shopro\chat\Index->init[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\chat\Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000167s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:29:51+08:00 ] 127.0.0.1 GET pinpinadmin.com/
+[运行时间：0.161223s] [吞吐率：6.20req/s] [内存消耗：3,128.69kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003510s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.009746s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009768s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.002089s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003211s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.001045s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:29:58+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin
+[运行时间：0.332307s] [吞吐率：3.01req/s] [内存消耗：2,398.47kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002362s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002375s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000265s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:00+08:00 ] 127.0.0.1 GET pinpinadmin.com/
+[运行时间：0.035249s] [吞吐率：28.37req/s] [内存消耗：3,128.38kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002434s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002452s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000235s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pinpinadmin.com/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000987s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000184s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:04+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php
+[运行时间：0.053034s] [吞吐率：18.86req/s] [内存消耗：3,058.65kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002413s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002430s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000234s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001031s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/common\view\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000382s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:05+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/index/login?url=%2Fadmin.php
+[运行时间：0.046356s] [吞吐率：21.57req/s] [内存消耗：3,570.75kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002331s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002345s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000272s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pinpinadmin.com/admin.php',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/admin.php',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000939s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000282s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000167s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:05+08:00 ] 127.0.0.1 GET pinpinadmin.com/index.php?s=/captcha
+[运行时间：0.047378s] [吞吐率：21.11req/s] [内存消耗：2,437.07kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002405s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002420s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000238s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpstudy_pro\WWW\waibao\pinpin\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:05+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1614432605&v=1614432605
+[运行时间：0.040130s] [吞吐率：24.92req/s] [内存消耗：3,587.06kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002318s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002332s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000232s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1614432605',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001305s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000195s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000178s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:10+08:00 ] 127.0.0.1 POST pinpinadmin.com/admin.php/index/login?url=%2Fadmin.php
+[运行时间：0.373645s] [吞吐率：2.68req/s] [内存消耗：4,385.45kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002572s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002591s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000239s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://pinpinadmin.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '86',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/admin.php',
+  '__token__' => 'a53220986da43b78198b40559bdef5ea',
+  'username' => 'admin',
+  'password' => '123456',
+  'captcha' => 'u5my',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000990s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000191s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.095787s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:11+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php
+[运行时间：0.496846s] [吞吐率：2.01req/s] [内存消耗：4,977.70kb] [文件加载：159]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002307s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002320s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000231s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000975s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000514s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000163s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:11+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/dashboard?addtabs=1
+[运行时间：0.435308s] [吞吐率：2.30req/s] [内存消耗：4,660.91kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000044s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003094s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003115s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000250s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001032s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000200s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Dashboard.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000167s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:11+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1614432610&v=1614432610
+[运行时间：0.050274s] [吞吐率：19.89req/s] [内存消耗：3,588.88kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000095s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003144s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003162s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000384s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1614432610',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002089s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000274s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000239s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:12+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=dashboard&lang=zh-cn&v=1614432611&v=1614432611
+[运行时间：0.054663s] [吞吐率：18.29req/s] [内存消耗：3,587.00kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000097s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003422s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003442s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000467s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'lang' => 'zh-cn',
+  'v' => '1614432611',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001805s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000226s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000272s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:30:12+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/chat/index/init
+[运行时间：0.231897s] [吞吐率：4.31req/s] [内存消耗：4,352.75kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003632s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003654s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000294s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.chat.index',
+    2 => 'init',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001621s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000481s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\shopro\chat\Index->init[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\chat\Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000163s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:53:55+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user?addtabs=1
+[运行时间：0.402803s] [吞吐率：2.48req/s] [内存消耗：4,756.43kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002899s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002914s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000364s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001092s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000237s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\user\user\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000241s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:53:55+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=user.user&lang=zh-cn&v=1614434034&v=1614434034
+[运行时间：0.046388s] [吞吐率：21.56req/s] [内存消耗：3,584.72kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002859s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002874s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000341s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user.user',
+  'lang' => 'zh-cn',
+  'v' => '1614434034',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001455s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000217s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000274s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:53:55+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user/index?sort=user.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1614434035284
+[运行时间：0.474023s] [吞吐率：2.11req/s] [内存消耗：4,804.63kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002849s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002864s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000328s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'user.id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1614434035284',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001048s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000253s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000252s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:11+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user?addtabs=1
+[运行时间：0.378640s] [吞吐率：2.64req/s] [内存消耗：4,609.16kb] [文件加载：147]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002579s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002597s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000255s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000945s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000196s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\user\user\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000167s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:11+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=user.user&lang=zh-cn&v=1614434051&v=1614434051
+[运行时间：0.038733s] [吞吐率：25.82req/s] [内存消耗：3,584.72kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002591s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002608s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000257s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user.user',
+  'lang' => 'zh-cn',
+  'v' => '1614434051',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001347s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000189s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000178s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:12+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user/index?sort=user.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1614434051464
+[运行时间：0.484503s] [吞吐率：2.06req/s] [内存消耗：4,804.63kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002403s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002421s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000235s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'user.id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1614434051464',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001001s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000200s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000171s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:13+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/rule?addtabs=1
+[运行时间：0.423078s] [吞吐率：2.36req/s] [内存消耗：4,866.21kb] [文件加载：152]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003131s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003159s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000284s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.rule',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000982s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000235s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/rule.php
+[ info ] [ RUN ] app\admin\controller\user\Rule->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\Rule.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\user\rule\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+  6 => 'ruledata',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000161s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:13+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=user.rule&lang=zh-cn&v=1614434052&v=1614434052
+[运行时间：0.038306s] [吞吐率：26.11req/s] [内存消耗：3,583.52kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002374s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002389s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000227s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user.rule',
+  'lang' => 'zh-cn',
+  'v' => '1614434052',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001404s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000194s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/rule.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000164s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:13+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/rule/index?sort=weigh&order=desc&_=1614434053192
+[运行时间：0.442134s] [吞吐率：2.26req/s] [内存消耗：4,721.00kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002582s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002599s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000272s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.rule',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'weigh',
+  'order' => 'desc',
+  '_' => '1614434053192',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000961s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000206s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/rule.php
+[ info ] [ RUN ] app\admin\controller\user\Rule->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\Rule.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000165s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:21+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/group?addtabs=1
+[运行时间：0.475510s] [吞吐率：2.10req/s] [内存消耗：4,733.67kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002430s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002464s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000331s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.group',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001085s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000224s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/group.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\user\group\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000190s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:22+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user/index?sort=user.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1614434051465
+[运行时间：0.607668s] [吞吐率：1.65req/s] [内存消耗：4,804.63kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000041s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002909s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002943s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000297s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'user.id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1614434051465',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001076s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000164s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:22+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=user.group&lang=zh-cn&v=1614434061&v=1614434061
+[运行时间：0.580524s] [吞吐率：1.72req/s] [内存消耗：3,583.16kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002376s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002395s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000366s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user.group',
+  'lang' => 'zh-cn',
+  'v' => '1614434061',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001386s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000388s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/group.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000170s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:54:22+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/group/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1614434061536
+[运行时间：0.432861s] [吞吐率：2.31req/s] [内存消耗：4,667.98kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002668s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002689s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000255s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.group',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1614434061536',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001069s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000203s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/group.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000178s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:20+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/user/user/edit/ids/1?dialog=1
+[运行时间：0.661506s] [吞吐率：1.51req/s] [内存消耗：4,834.98kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.003042s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003075s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000386s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+  'ids' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000974s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000212s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ RUN ] app\admin\controller\user\User->edit[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\user\User.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\user\user\edit.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'groupList',
+  6 => 'row',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000170s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:20+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=user.user&lang=zh-cn&v=1614434119&v=1614434119
+[运行时间：0.038797s] [吞吐率：25.78req/s] [内存消耗：3,584.95kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002646s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002665s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000254s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user.user',
+  'lang' => 'zh-cn',
+  'v' => '1614434119',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001375s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000231s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/user/user.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000164s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:35+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/order/order?addtabs=1
+[运行时间：0.495365s] [吞吐率：2.02req/s] [内存消耗：5,443.91kb] [文件加载：158]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002405s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002422s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000303s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.order.order',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001076s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000191s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order_item.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/dispatch/dispatch.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/goods/goods.php
+[ info ] [ RUN ] app\admin\controller\shopro\order\Order->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\order\Order.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\shopro\order\order\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'typeList',
+  6 => 'statusList',
+  7 => 'payTypeList',
+  8 => 'platformList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000164s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:35+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=shopro.order.order&lang=zh-cn&v=1614434134&v=1614434134
+[运行时间：0.036837s] [吞吐率：27.15req/s] [内存消耗：3,586.61kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002325s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002341s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000249s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'shopro.order.order',
+  'lang' => 'zh-cn',
+  'v' => '1614434134',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001288s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000186s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000200s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/order/order/index?filter=%7B%7D&op=%7B%7D&offset=0&limit=10
+[运行时间：0.659502s] [吞吐率：1.52req/s] [内存消耗：5,450.89kb] [文件加载：169]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002654s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002673s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000947s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.order.order',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'filter' => '{}',
+  'op' => '{}',
+  'offset' => '0',
+  'limit' => '10',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001127s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000299s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order_item.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/dispatch/dispatch.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/goods/goods.php
+[ info ] [ RUN ] app\admin\controller\shopro\order\Order->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\order\Order.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000166s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/order/order/getType
+[运行时间：0.671797s] [吞吐率：1.49req/s] [内存消耗：4,733.21kb] [文件加载：159]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002842s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002862s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000442s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.order.order',
+    2 => 'getType',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001024s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000256s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order_item.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/dispatch/dispatch.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/goods/goods.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\shopro\order\Order->getType[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\order\Order.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000186s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:36+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/store/store/all?search=
+[运行时间：1.371524s] [吞吐率：0.73req/s] [内存消耗：4,708.33kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002486s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002504s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000249s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.store.store',
+    2 => 'all',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'search' => '',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001178s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000267s ]
+[ info ] [ RUN ] app\admin\controller\shopro\store\Store->all[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\store\Store.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000160s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:40+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/order/order/detail?id=1&dialog=1
+[运行时间：0.411877s] [吞吐率：2.43req/s] [内存消耗：5,456.09kb] [文件加载：158]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002303s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002316s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000284s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.order.order',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+  'dialog' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001054s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000198s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order_item.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/dispatch/dispatch.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/goods/goods.php
+[ info ] [ RUN ] app\admin\controller\shopro\order\Order->detail[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\order\Order.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\shopro\order\order\detail.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'typeList',
+  6 => 'statusList',
+  7 => 'payTypeList',
+  8 => 'platformList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000203s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:40+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=shopro.order.order&lang=zh-cn&v=1614434139&v=1614434139
+[运行时间：0.037379s] [吞吐率：26.75req/s] [内存消耗：3,586.61kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002461s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002482s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000239s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'shopro.order.order',
+  'lang' => 'zh-cn',
+  'v' => '1614434139',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001341s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000183s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000158s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:41+08:00 ] 127.0.0.1 POST pinpinadmin.com/admin.php/shopro/order/order/detail?id=1
+[运行时间：1.071275s] [吞吐率：0.93req/s] [内存消耗：5,449.93kb] [文件加载：171]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002829s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002853s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000310s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.order.order',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://pinpinadmin.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '0',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001382s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/order/order_item.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/dispatch/dispatch.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/goods/goods.php
+[ info ] [ RUN ] app\admin\controller\shopro\order\Order->detail[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\order\Order.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.112122s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T21:55:42+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/express/select?searchWhere=&limit=6&offset=0
+[运行时间：1.576230s] [吞吐率：0.63req/s] [内存消耗：4,640.63kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002612s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002630s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000237s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.express',
+    2 => 'select',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'searchWhere' => '',
+  'limit' => '6',
+  'offset' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000988s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000206s ]
+[ info ] [ RUN ] app\admin\controller\shopro\Express->select[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\Express.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000162s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:15+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/dashboard?addtabs=1
+[运行时间：0.493112s] [吞吐率：2.03req/s] [内存消耗：4,894.46kb] [文件加载：147]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002729s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002742s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000336s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001343s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000245s ]
+[ info ] [ RUN ] app\admin\controller\shopro\Dashboard->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\Dashboard.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\shopro\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000223s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:15+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=shopro.dashboard&lang=zh-cn&v=1614437415&v=1614437415
+[运行时间：0.043531s] [吞吐率：22.97req/s] [内存消耗：3,583.02kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002765s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002778s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000330s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'shopro.dashboard',
+  'lang' => 'zh-cn',
+  'v' => '1614437415',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001408s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000211s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000217s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:17+08:00 ] 127.0.0.1 POST pinpinadmin.com/admin.php/shopro/dashboard/index
+[运行时间：1.171956s] [吞吐率：0.85req/s] [内存消耗：5,177.15kb] [文件加载：157]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002943s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002963s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000620s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.dashboard',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://pinpinadmin.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '63',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+)
+[ info ] [ PARAM ] array (
+  'datetimerange' => '2021-02-27 00:00:00 - 2021-02-27 23:59:59',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001216s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000315s ]
+[ info ] [ RUN ] app\admin\controller\shopro\Dashboard->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\Dashboard.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000563s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:23+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/activity/groupon?addtabs=1
+[运行时间：0.386690s] [吞吐率：2.59req/s] [内存消耗：4,957.45kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002245s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002258s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000291s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.activity.groupon',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000960s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000182s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/activity/groupon.php
+[ info ] [ RUN ] app\admin\controller\shopro\activity\Groupon->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\activity\Groupon.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\view\shopro\activity\groupon\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000159s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:23+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/ajax/lang?callback=define&controllername=shopro.activity.groupon&lang=zh-cn&v=1614437423&v=1614437423
+[运行时间：0.036400s] [吞吐率：27.47req/s] [内存消耗：3,584.70kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002334s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002349s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000232s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'shopro.activity.groupon',
+  'lang' => 'zh-cn',
+  'v' => '1614437423',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001334s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000191s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/activity/groupon.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000167s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:24+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/activity/activity/all?type=groupon
+[运行时间：0.580031s] [吞吐率：1.72req/s] [内存消耗：4,769.14kb] [文件加载：153]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002238s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002252s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000224s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.activity.activity',
+    2 => 'all',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'groupon',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000911s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000185s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/activity/activity.php
+[ info ] [ RUN ] app\admin\controller\shopro\activity\Activity->all[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\activity\Activity.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000152s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-27T22:50:25+08:00 ] 127.0.0.1 GET pinpinadmin.com/admin.php/shopro/activity/groupon/index?sort=id&order=desc&offset=0&limit=10&activity_id=19&status=all&search=
+[运行时间：0.689089s] [吞吐率：1.45req/s] [内存消耗：4,895.78kb] [文件加载：159]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002232s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002245s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000218s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'shopro.activity.groupon',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=egtqcvmci3r8l8oh6qje3rsol4; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'pinpinadmin.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'activity_id' => '19',
+  'status' => 'all',
+  'search' => '',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000902s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000216s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\waibao\pinpin\public/../application/admin/lang/zh-cn/shopro/activity/groupon.php
+[ info ] [ RUN ] app\admin\controller\shopro\activity\Groupon->index[ D:\phpstudy_pro\WWW\waibao\pinpin\application\admin\controller\shopro\activity\Groupon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000168s ]
+[ info ] [ LOG ] INIT File

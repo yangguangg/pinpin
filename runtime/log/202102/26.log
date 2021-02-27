@@ -1,0 +1,3278 @@
+---------------------------------------------------------------
+[ 2021-02-26T00:15:46+08:00 ] 193.118.53.194 GET 139.155.43.204/
+[运行时间：0.023815s] [吞吐率：41.99req/s] [内存消耗：3,070.55kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001813s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001824s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000157s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000856s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T00:40:05+08:00 ] 128.14.134.170 GET 139.155.43.204/
+[运行时间：0.025676s] [吞吐率：38.95req/s] [内存消耗：3,070.55kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001861s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001873s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000133s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000883s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.001192s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T01:26:35+08:00 ] 213.16.63.201 GET 139.155.43.204/
+[运行时间：0.024573s] [吞吐率：40.70req/s] [内存消耗：3,069.55kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001786s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001797s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000134s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '139.155.43.204',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.58.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000893s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000651s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T02:49:16+08:00 ] 124.65.191.218 GET 139.155.43.204:443/
+[运行时间：0.023626s] [吞吐率：42.33req/s] [内存消耗：3,070.56kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001814s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001826s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000169s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000851s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T03:10:12+08:00 ] 162.142.125.37 GET 139.155.43.204:443/
+[运行时间：0.023689s] [吞吐率：42.21req/s] [内存消耗：3,069.14kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001811s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001823s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000145s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000953s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000120s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T03:10:14+08:00 ] 162.142.125.37 GET 139.155.43.204/
+[运行时间：0.023936s] [吞吐率：41.78req/s] [内存消耗：3,070.11kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001755s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001766s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000131s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000851s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T03:44:42+08:00 ] 34.86.35.207 GET api.lexlee.top/
+[运行时间：0.023710s] [吞吐率：42.18req/s] [内存消耗：3,070.18kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002009s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002021s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000139s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo@expanseinc.com',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000873s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T04:11:49+08:00 ] 159.203.188.27 POST 192.168.0.1:443/GponForm/diag_Form?style/
+[运行时间：0.018832s] [吞吐率：53.10req/s] [内存消耗：2,373.49kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001856s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001867s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000164s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'GponForm',
+    1 => 'diag_Form',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '133',
+  'content-type' => 'text/plain',
+  'connection' => 'keep-alive',
+  'xaccept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.3.2',
+  'host' => '192.168.0.1:443',
+)
+[ info ] [ PARAM ] array (
+  'style/' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T04:13:26+08:00 ] 192.241.214.35 GET 139.155.43.204/
+[运行时间：0.024434s] [吞吐率：40.93req/s] [内存消耗：3,069.86kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001824s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001835s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000139s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000882s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000092s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T04:37:12+08:00 ] 192.241.223.178 GET 139.155.43.204/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+[运行时间：0.020002s] [吞吐率：50.00req/s] [内存消耗：2,370.59kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001910s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001924s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000137s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'owa',
+    1 => 'auth',
+    2 => 'logon.aspx',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'https://1/ecp/',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T06:22:11+08:00 ] 111.225.148.76 GET lexlee.top/?p=53
+[运行时间：0.032137s] [吞吐率：31.12req/s] [内存消耗：3,037.59kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001954s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001965s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000172s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-language' => 'zh,zh-CN;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p' => '53',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000901s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000100s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:40+08:00 ] 45.155.205.225 POST 139.155.43.204:443/api/jsonws/invoke
+[运行时间：0.020341s] [吞吐率：49.16req/s] [内存消耗：2,625.94kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001904s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001915s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000143s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'jsonws',
+    2 => 'invoke',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000857s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:43+08:00 ] 45.155.205.225 GET 139.155.43.204:443/index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21
+[运行时间：0.019033s] [吞吐率：52.54req/s] [内存消耗：2,387.08kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001931s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001942s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000135s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => '\\think\\app',
+    2 => 'invokefunction',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'function' => 'call_user_func_array',
+  'vars' => 
+  array (
+    0 => 'md5',
+    1 => 
+    array (
+      0 => 'HelloThinkPHP21',
+    ),
+  ),
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:44+08:00 ] 45.155.205.225 POST 139.155.43.204:443/Autodiscover/Autodiscover.xml
+[运行时间：0.018613s] [吞吐率：53.73req/s] [内存消耗：2,373.59kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001755s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001769s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000134s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Autodiscover',
+    1 => 'Autodiscover.xml',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/xml',
+  'content-length' => '314',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:46+08:00 ] 45.155.205.225 GET 139.155.43.204:443/?XDEBUG_SESSION_START=phpstorm
+[运行时间：0.024008s] [吞吐率：41.65req/s] [内存消耗：3,071.47kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001799s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001811s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000141s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'XDEBUG_SESSION_START' => 'phpstorm',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000892s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:47+08:00 ] 45.155.205.225 GET 139.155.43.204:443/console/
+[运行时间：0.018868s] [吞吐率：53.00req/s] [内存消耗：2,370.59kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001823s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001834s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000136s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'console',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:49+08:00 ] 45.155.205.225 POST 139.155.43.204:443/mifs/.;/services/LogService
+[运行时间：0.018642s] [吞吐率：53.64req/s] [内存消耗：2,373.55kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001819s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001830s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000150s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mifs',
+    1 => '.;',
+    2 => 'services',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'referer' => 'https://139.155.43.204:443',
+  'content-type' => 'x-application/hessian',
+  'content-length' => '6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:51+08:00 ] 45.155.205.225 GET 139.155.43.204:443/_ignition/execute-solution
+[运行时间：0.019342s] [吞吐率：51.70req/s] [内存消耗：2,371.07kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001900s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001911s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000147s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '_ignition',
+    1 => 'execute-solution',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:08:51+08:00 ] 45.155.205.225 GET 139.155.43.204:443/wp-content/plugins/wp-file-manager/readme.txt
+[运行时间：0.019667s] [吞吐率：50.85req/s] [内存消耗：2,370.92kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001855s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001866s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000138s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wp-content',
+    1 => 'plugins',
+    2 => 'wp-file-manager',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:16:38+08:00 ] 183.136.225.42 GET 139.155.43.204:443/
+[运行时间：0.024878s] [吞吐率：40.20req/s] [内存消耗：3,070.41kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001925s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001936s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000159s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '139.155.43.204:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000900s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T08:44:54+08:00 ] 51.75.95.58 GET 139.155.43.204/
+[运行时间：0.024652s] [吞吐率：40.56req/s] [内存消耗：3,069.86kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001827s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001839s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000140s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000884s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000095s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/index/template
+[运行时间：0.020900s] [吞吐率：47.85req/s] [内存消耗：2,709.27kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002009s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002021s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000137s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000966s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/coupons/lists?ids=2
+[运行时间：0.038062s] [吞吐率：26.27req/s] [内存消耗：2,650.98kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002342s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002357s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000186s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '2',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001405s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/coupons/lists?ids=1
+[运行时间：0.035243s] [吞吐率：28.37req/s] [内存消耗：2,650.98kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002419s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002433s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000204s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '1',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001294s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/goods/activity?activity_id=20
+[运行时间：0.050584s] [吞吐率：19.77req/s] [内存消耗：2,657.30kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002520s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002534s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000209s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '20',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001386s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/goods/activity?activity_id=19
+[运行时间：0.067888s] [吞吐率：14.73req/s] [内存消耗：2,657.30kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.020583s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.020600s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000193s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '19',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001329s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/goods/lists?page=1&goods_ids=16%2C15%2C14%2C13%2C12%2C10%2C8%2C9%2C17%2C18%2C19%2C20%2C25%2C26%2C28%2C29
+[运行时间：0.052866s] [吞吐率：18.92req/s] [内存消耗：2,657.73kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.009487s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009504s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000187s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'goods_ids' => '16,15,14,13,12,10,8,9,17,18,19,20,25,26,28,29',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001372s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/coupons/lists?ids=2
+[运行时间：0.047288s] [吞吐率：21.15req/s] [内存消耗：4,122.68kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002489s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002504s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000225s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '2',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001587s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/index/template
+[运行时间：0.102354s] [吞吐率：9.77req/s] [内存消耗：4,186.90kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000009s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001810s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001821s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000147s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001246s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/goods/lists?page=1&goods_ids=16%2C15%2C14%2C13%2C12%2C10%2C8%2C9%2C17%2C18%2C19%2C20%2C25%2C26%2C28%2C29
+[运行时间：0.067342s] [吞吐率：14.85req/s] [内存消耗：4,395.28kb] [文件加载：158]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002367s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002381s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000190s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'goods_ids' => '16,15,14,13,12,10,8,9,17,18,19,20,25,26,28,29',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001311s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/coupons/lists?ids=1
+[运行时间：0.114254s] [吞吐率：8.75req/s] [内存消耗：4,122.68kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.022261s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.022281s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000223s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '1',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002040s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=19
+[运行时间：0.114280s] [吞吐率：8.75req/s] [内存消耗：4,410.91kb] [文件加载：159]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002656s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002671s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000208s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '19',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001435s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=20
+[运行时间：0.125718s] [吞吐率：7.95req/s] [内存消耗：4,409.64kb] [文件加载：159]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.022240s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.022258s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000229s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '20',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001425s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 OPTIONS api.lexlee.top/addons/shopro/index/init
+[运行时间：0.020147s] [吞吐率：49.64req/s] [内存消耗：2,709.23kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000009s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001795s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001807s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000138s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'access-control-request-headers' => 'content-type,platform,token',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-method' => 'GET',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001001s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T09:55:50+08:00 ] 61.52.77.234 GET api.lexlee.top/addons/shopro/index/init
+[运行时间：0.034049s] [吞吐率：29.37req/s] [内存消耗：4,153.30kb] [文件加载：147]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001930s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001944s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000184s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'token' => 'aebd0506-2cbe-4edc-a466-a045bc03e41d',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0',
+  'platform' => 'H5',
+  'origin' => 'http://h5.lexlee.top',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000973s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:20:34+08:00 ] 178.73.215.171 GET /
+[运行时间：0.024476s] [吞吐率：40.86req/s] [内存消耗：3,069.05kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001856s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001867s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000136s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000988s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000087s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:33:36+08:00 ] 13.72.102.159 GET 139.155.43.204/
+[运行时间：0.023658s] [吞吐率：42.27req/s] [内存消耗：3,069.55kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001827s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001838s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000133s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '139.155.43.204',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.58.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000864s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000115s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:35:40+08:00 ] 219.155.53.20 GET api.lexlee.top/
+[运行时间：0.024683s] [吞吐率：40.51req/s] [内存消耗：3,073.95kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001946s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001957s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000143s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://139.155.43.204:8888/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000857s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000090s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:02+08:00 ] 219.155.53.20 GET api.lexlee.top/admin
+[运行时间：0.018885s] [吞吐率：52.95req/s] [内存消耗：2,374.88kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001843s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001854s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000176s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:04+08:00 ] 219.155.53.20 GET api.lexlee.top/
+[运行时间：0.024035s] [吞吐率：41.61req/s] [内存消耗：3,073.95kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001807s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001818s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000132s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000869s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000089s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:05+08:00 ] 219.155.53.20 GET api.lexlee.top/index/user/index.html
+[运行时间：0.027825s] [吞吐率：35.94req/s] [内存消耗：3,746.50kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000010s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001769s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001780s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000137s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000874s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/common/view/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:07+08:00 ] 219.155.53.20 GET api.lexlee.top/index/user/login.html
+[运行时间：0.024192s] [吞吐率：41.34req/s] [内存消耗：3,135.92kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001780s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001793s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000142s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/index/user/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000891s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000089s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ RUN ] app\index\controller\User->login[ /www/wwwroot/admin.lexlee.top/application/index/controller/User.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/user/login.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+  3 => 'url',
+  4 => 'title',
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:07+08:00 ] 219.155.53.20 GET api.lexlee.top/index/ajax/lang?callback=define&controllername=user&lang=zh-cn&v=1614314167&v=1614314167
+[运行时间：0.024059s] [吞吐率：41.56req/s] [内存消耗：3,064.80kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001912s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001924s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000219s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/index/user/login.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user',
+  'lang' => 'zh-cn',
+  'v' => '1614314167',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001191s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000091s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\index\controller\Ajax->lang[ /www/wwwroot/admin.lexlee.top/application/index/controller/Ajax.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:14+08:00 ] 219.155.53.20 POST api.lexlee.top/index/user/login.html
+[运行时间：0.040529s] [吞吐率：24.67req/s] [内存消耗：4,167.77kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001838s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001850s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000145s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/index/user/login.html',
+  'origin' => 'http://api.lexlee.top',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '144',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'http://api.lexlee.top/index/user/index.html',
+  '__token__' => '3ffa6688992026389f84a9cc11dd8b77',
+  'account' => 'admin',
+  'password' => '123456',
+  'keeplogin' => '1',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000836s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ RUN ] app\index\controller\User->login[ /www/wwwroot/admin.lexlee.top/application/index/controller/User.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ BEHAVIOR ] Run Closure @user_login_successed [ RunTime:0.000051s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:15+08:00 ] 219.155.53.20 GET api.lexlee.top/index/user/index.html
+[运行时间：0.035188s] [吞吐率：28.42req/s] [内存消耗：4,163.67kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001839s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001850s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000160s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/index/user/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000846s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000099s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ RUN ] app\index\controller\User->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/User.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/user/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+  3 => 'title',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:16+08:00 ] 219.155.53.20 GET api.lexlee.top/index/ajax/lang?callback=define&controllername=user&lang=zh-cn&v=1614314175&v=1614314175
+[运行时间：0.030933s] [吞吐率：32.33req/s] [内存消耗：4,034.09kb] [文件加载：146]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001776s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001787s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000151s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://api.lexlee.top/index/user/index.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user',
+  'lang' => 'zh-cn',
+  'v' => '1614314175',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001101s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000089s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\index\controller\Ajax->lang[ /www/wwwroot/admin.lexlee.top/application/index/controller/Ajax.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:27+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/index/template
+[运行时间：0.020244s] [吞吐率：49.40req/s] [内存消耗：2,711.34kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001776s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001787s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000135s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000963s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:27+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/template
+[运行时间：0.030266s] [吞吐率：33.04req/s] [内存消耗：4,059.28kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000009s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001805s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001816s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000141s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000972s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/coupons/lists?ids=2
+[运行时间：0.072433s] [吞吐率：13.81req/s] [内存消耗：2,653.05kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.049125s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.049146s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000197s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '2',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001310s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/goods/activity?activity_id=20
+[运行时间：0.063067s] [吞吐率：15.86req/s] [内存消耗：2,659.38kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002662s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002680s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000190s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '20',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001623s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/goods/lists?page=1&goods_ids=16%2C15%2C14%2C13%2C12%2C10%2C8%2C9%2C17%2C18%2C19%2C20%2C25%2C26%2C28%2C29
+[运行时间：0.045892s] [吞吐率：21.79req/s] [内存消耗：2,659.80kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002251s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002265s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000203s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'goods_ids' => '16,15,14,13,12,10,8,9,17,18,19,20,25,26,28,29',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001371s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/coupons/lists?ids=1
+[运行时间：0.061359s] [吞吐率：16.30req/s] [内存消耗：2,653.05kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002278s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002293s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000229s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '1',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001348s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/goods/activity?activity_id=19
+[运行时间：0.081133s] [吞吐率：12.33req/s] [内存消耗：2,659.38kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.033537s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.033556s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000521s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '19',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001415s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 OPTIONS api.lexlee.top/addons/shopro/index/init
+[运行时间：0.046558s] [吞吐率：21.48req/s] [内存消耗：2,711.30kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002752s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002782s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000199s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'origin' => 'http://h5.lexlee.top',
+  'access-control-request-headers' => 'content-type,platform',
+  'access-control-request-method' => 'GET',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001617s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/coupons/lists?ids=2
+[运行时间：0.060572s] [吞吐率：16.51req/s] [内存消耗：3,990.96kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002460s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002475s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000185s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '2',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001312s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/coupons/lists?ids=1
+[运行时间：0.080936s] [吞吐率：12.36req/s] [内存消耗：3,990.96kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002567s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002581s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000203s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '1',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001287s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/init
+[运行时间：0.078824s] [吞吐率：12.69req/s] [内存消耗：4,021.99kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002985s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003002s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000194s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001289s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=20
+[运行时间：0.136264s] [吞吐率：7.34req/s] [内存消耗：4,341.98kb] [文件加载：155]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002668s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002686s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000241s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '20',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002215s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/lists?page=1&goods_ids=16%2C15%2C14%2C13%2C12%2C10%2C8%2C9%2C17%2C18%2C19%2C20%2C25%2C26%2C28%2C29
+[运行时间：0.130950s] [吞吐率：7.64req/s] [内存消耗：4,327.66kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.014049s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014067s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000195s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'goods_ids' => '16,15,14,13,12,10,8,9,17,18,19,20,25,26,28,29',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001373s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:36:29+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=19
+[运行时间：0.111179s] [吞吐率：8.99req/s] [内存消耗：4,343.25kb] [文件加载：155]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002496s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002511s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000186s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '19',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001465s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:37:38+08:00 ] 219.155.53.20 GET api.lexlee.top/admin
+[运行时间：0.018702s] [吞吐率：53.47req/s] [内存消耗：2,378.02kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001787s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001798s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000140s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:38:06+08:00 ] 219.155.53.20 GET api.lexlee.top/
+[运行时间：0.031453s] [吞吐率：31.79req/s] [内存消耗：4,110.33kb] [文件加载：146]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001853s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001864s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000154s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://api.lexlee.top/admin',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000884s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000100s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:38:08+08:00 ] 219.155.53.20 GET api.lexlee.top/index/user/index.html
+[运行时间：0.034807s] [吞吐率：28.73req/s] [内存消耗：4,165.88kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002197s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002210s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000176s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://api.lexlee.top/',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001085s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000091s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ RUN ] app\index\controller\User->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/User.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/user/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+  3 => 'title',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:38:09+08:00 ] 219.155.53.20 GET api.lexlee.top/index/ajax/lang?callback=define&controllername=user&lang=zh-cn&v=1614314288&v=1614314288
+[运行时间：0.030346s] [吞吐率：32.95req/s] [内存消耗：4,036.13kb] [文件加载：146]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001818s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001829s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000171s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=75epsmf4tirhnkse1bglnjbu8b; think_var=zh-cn; uid=1; token=2eedd598-a8ce-4cdf-bc7d-508803c3ec30',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://api.lexlee.top/index/user/index.html',
+  'sec-fetch-dest' => 'script',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user',
+  'lang' => 'zh-cn',
+  'v' => '1614314288',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001106s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000090s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\index\controller\Ajax->lang[ /www/wwwroot/admin.lexlee.top/application/index/controller/Ajax.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/template
+[运行时间：0.037038s] [吞吐率：27.00req/s] [内存消耗：4,059.28kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001916s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001928s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000142s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000966s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=20
+[运行时间：0.096835s] [吞吐率：10.33req/s] [内存消耗：4,341.98kb] [文件加载：155]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002478s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002493s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000217s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '20',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.012996s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/activity?activity_id=19
+[运行时间：0.112848s] [吞吐率：8.86req/s] [内存消耗：4,343.25kb] [文件加载：155]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002537s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002555s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000216s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'activity_id' => '19',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'activity',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001479s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/coupons/lists?ids=2
+[运行时间：0.133904s] [吞吐率：7.47req/s] [内存消耗：3,990.96kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002363s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002378s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000196s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '2',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.056732s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/init
+[运行时间：0.086213s] [吞吐率：11.60req/s] [内存消耗：4,021.99kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.018788s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.018807s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000214s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001446s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/coupons/lists?ids=1
+[运行时间：0.122452s] [吞吐率：8.17req/s] [内存消耗：3,990.96kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.046710s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.046730s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000198s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'ids' => '1',
+  'addon' => 'shopro',
+  'controller' => 'coupons',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001430s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:09+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/goods/lists?page=1&goods_ids=16%2C15%2C14%2C13%2C12%2C10%2C8%2C9%2C17%2C18%2C19%2C20%2C25%2C26%2C28%2C29
+[运行时间：0.117101s] [吞吐率：8.54req/s] [内存消耗：4,327.66kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.035933s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.035952s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000220s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'goods_ids' => '16,15,14,13,12,10,8,9,17,18,19,20,25,26,28,29',
+  'addon' => 'shopro',
+  'controller' => 'goods',
+  'action' => 'lists',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001432s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:13+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/template
+[运行时间：0.031007s] [吞吐率：32.25req/s] [内存消耗：4,059.28kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002000s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002011s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000144s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'template',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001019s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T12:39:13+08:00 ] 219.155.53.20 GET api.lexlee.top/addons/shopro/index/init
+[运行时间：0.032239s] [吞吐率：31.02req/s] [内存消耗：4,021.99kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001831s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001842s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000171s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://h5.lexlee.top/',
+  'sec-fetch-dest' => 'empty',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'cross-site',
+  'origin' => 'http://h5.lexlee.top',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+  'platform' => 'H5',
+  'host' => 'api.lexlee.top',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addon' => 'shopro',
+  'controller' => 'index',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /www/wwwroot/admin.lexlee.top/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000966s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T14:18:50+08:00 ] 65.49.20.66 GET 139.155.43.204/
+[运行时间：0.023766s] [吞吐率：42.08req/s] [内存消耗：3,069.09kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001939s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001951s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000136s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '139.155.43.204',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000898s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000095s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T14:29:25+08:00 ] 223.104.6.29 GET api.lexlee.top/
+[运行时间：0.025364s] [吞吐率：39.43req/s] [内存消耗：3,072.97kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001799s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001811s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000134s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.2(0x18000230) NetType/4G Language/zh_CN',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000870s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000089s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/admin.lexlee.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T14:29:29+08:00 ] 223.104.6.29 GET api.lexlee.top/index/user/index.html
+[运行时间：0.029015s] [吞吐率：34.46req/s] [内存消耗：3,745.89kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002082s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002099s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000172s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'https://api.lexlee.top/',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.2(0x18000230) NetType/4G Language/zh_CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000879s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/common/view/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T14:29:30+08:00 ] 223.104.6.29 GET api.lexlee.top/index/user/login.html
+[运行时间：0.024811s] [吞吐率：40.30req/s] [内存消耗：3,134.81kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.001843s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001854s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000157s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'https://api.lexlee.top/index/user/index.html',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.2(0x18000230) NetType/4G Language/zh_CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000874s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ RUN ] app\index\controller\User->login[ /www/wwwroot/admin.lexlee.top/application/index/controller/User.php ]
+[ info ] [ VIEW ] /www/wwwroot/admin.lexlee.top/public/../application/index/view/user/login.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+  3 => 'url',
+  4 => 'title',
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-02-26T14:29:32+08:00 ] 223.104.6.29 GET api.lexlee.top/index/ajax/lang?callback=define&controllername=user&lang=zh-cn&v=1614320970&v=1614320970
+[运行时间：0.023596s] [吞吐率：42.38req/s] [内存消耗：3,064.98kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\shopro\Shopro @app_init [ RunTime:0.002065s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002076s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000137s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=msj48el5fpusu3t356r4du85o5',
+  'referer' => 'https://api.lexlee.top/index/user/login.html',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.2(0x18000230) NetType/4G Language/zh_CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'host' => 'api.lexlee.top',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'user',
+  'lang' => 'zh-cn',
+  'v' => '1614320970',
+)
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001165s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.000088s ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\index\controller\Ajax->lang[ /www/wwwroot/admin.lexlee.top/application/index/controller/Ajax.php ]
+[ info ] [ LANG ] /www/wwwroot/admin.lexlee.top/public/../application/index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
